@@ -1,0 +1,56 @@
+start 
+import library's 
+(random, color, and time)
+
+use an auto reset thing (idk that's what stack overflow said )
+
+def statement for a random number gen 0 to 36
+
+if and while statements for the actual game
+make a variable for money 
+print some messages 
+
+make a while statement for "while money is above 0"
+make it so you can bet using "if" so if the amount you bet is less then then the amount you have its true 
+ask if they want to bet on a single or red, black or green or high or low (1 to 18 or 19 to 36)
+
+
+print a message 
+
+because we need more lines use time to simulate some down time like a few sec for it to simulate spinning 
+
+----
+
+if statement for a high or low 
+if you bet low, any number between 1 to 18 is a winner and multiply bet by 2 
+if you bet high, any number between 19 to 36 is winner and multiply bet by 2 
+else subtract bet from the balance 
+
+ask if they want to play again 
+if yes start loop again if no say good by or go fuck yourself
+
+----
+
+an if statement for if the person wins on a single 
+pretty much just do the bet amount times 35 because gambl
+add that to the balance 
+print something 
+else
+subtract it if lose 
+
+ask if they want to play again 
+if yes start loop again if no say good by or go fuck yourself
+
+
+----
+
+ an if statement for a bet on red black or green
+pretty much just do if red multiply my 2 if black multiply by 2 if green multiply my 35
+add that to the balance 
+print something 
+else
+subtract it if lose 
+
+ask if they want to play again 
+if yes start loop again if no say good by or go fuck yourself
+
